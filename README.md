@@ -132,7 +132,7 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Video:** [JavaScript DOM Manipulation](https://www.youtube.com/watch?v=wiozYyXQEVk)
   2. Implement the **search functionality** to filter forum topics or posts.
      - **Reading:** [JavaScript Search Filter Guide](https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement)  
-     - **Video:** [Building Search Filters](https://www.youtube.com/watch?v=rZj5kXZsWDw)
+     - **Video:** [Building Search Filters](https://www.youtube.com/watch?v=bAUMuuRH99o&t=1s)
 
 - **Deliverables:**
   - A responsive navbar with toggle functionality and a working search feature.
