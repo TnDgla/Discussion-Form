@@ -101,10 +101,10 @@ Participants are encouraged to customize the user interface and incorporate addi
 - **Tasks:**
   1. Create a **posts page** displaying a table of discussions within a forum.
      - **Reading:** [HTML Tables Guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)  
-     - **Video:** [HTML Table Design](https://www.youtube.com/watch?v=JwMOdy3f6PI)
+     - **Video:** [HTML Table Design](https://www.youtube.com/watch?v=biI9OFH6Nmg)
   2. Style the table using CSS for alignment and accessibility.
      - **Reading:** [Accessible Table Design](https://webaim.org/techniques/tables/data)  
-     - **Video:** [CSS Table Styling](https://www.youtube.com/watch?v=Qj9PY2H9Ako)
+     - **Video:** [CSS Table Styling](https://www.youtube.com/watch?v=E_A99dfsOPs)
 
 - **Deliverables:**
   - A posts page with a styled and responsive table layout for discussions.
