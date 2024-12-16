@@ -143,10 +143,10 @@ Participants are encouraged to customize the user interface and incorporate addi
 - **Tasks:**
   1. Enhance the **visual design** with CSS animations and hover effects.
      - **Reading:** [CSS Animations Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)  
-     - **Video:** [Adding Animations to Websites](https://www.youtube.com/watch?v=1O9H54SA1Bs)
+     - **Video:** [Adding Animations to Websites](https://www.youtube.com/watch?v=jiK6Mf-ILSg)
   2. Test the application across various devices and browsers.
      - **Reading:** [Cross-Browser Testing Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)  
-     - **Video:** [Web Testing Basics](https://www.youtube.com/watch?v=1Wje8W_ur6c)
+     - **Video:** [Web Testing Basics](https://www.youtube.com/watch?v=RMns9K0lbyY)
 
 - **Deliverables:**
   - A polished and fully functional discussion forum web app ready for deployment.
