@@ -73,10 +73,10 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Video:** [HTML Crash Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   2. Set up the homepage layout with a responsive **navbar**.
      - **Reading:** [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-     - **Video:** [Responsive Navbar Tutorial](https://www.youtube.com/watch?v=HJ7nLYiShxA)
+     - **Video:** [Responsive Navbar Tutorialhttps://www.youtube.com/watch?v=DWk2mndNTHY&t=14s)
   3. Add a **dark mode** theme and global styling.
      - **Reading:** [Dark Mode CSS Guide](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)  
-     - **Video:** [CSS Dark Mode Design](https://www.youtube.com/watch?v=7DE9xNDyH6s)
+     - **Video:** [CSS Dark Mode Design](https://www.youtube.com/watch?v=9LZGB3OLXNQ)
 
 - **Deliverables:**
   - A homepage layout with a responsive navbar and dark mode enabled.
